@@ -349,6 +349,7 @@ After the installation of React, via any package manager like **Node Package Man
 
 *Click the Babel file button then click View Compiled button to see how React compiles **JSX** (Custom **HTML**) to JavaScript behind the scene*
 
+---
 **Happy Coding!!!**
 
 [![Buy me a Coffee](https://res.cloudinary.com/bizstak/image/upload/v1610317510/ko-fi-trans_fr3su4.png)](https://www.buymeacoffee.com/bellotech)
