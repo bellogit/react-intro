@@ -1,5 +1,6 @@
 ###### *This article is sponsored by [Flutterwave](https://dashboard.flutterwave.com/signup?referrals=RV686851) - Flutterwave is the easiest way to make and accept payments both online and offline from customers anywhere in the world. It is absolutely free!*
 
+---
 **React** happens to be the most popular JavaScript framework sourced from [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-web-frameworks-wanted2) (2020). It is the best alternative to two other popular JavaScript frameworks, [Angular](https://angular.io/) and [Vue](https://vuejs.org/). They all allow you to create fast apps in the browser.
 
 According to the [official React website](https://reactjs.org/):
@@ -11,6 +12,7 @@ A **template-like component** can be created for reuse in a single web app. It t
 
 You only have to change the data in the components. These feature in JavaScript makes it easier to write shorter code for complex applications.
 
+---
 ### What are the components?
 A simple definition of components is:
 > Components are independent and reusable bits of code
@@ -30,6 +32,7 @@ The image below [shows part of the official React home page](https://reactjs.org
 
 Let's take a look at the latter components (the bottom 3 components). It shows a component reusable in a web app.
 
+---
 ### How to build components in React?
 Let's use [Codepen](https://codepen.io/) to illustrate.
 
@@ -198,7 +201,6 @@ In **HTML** and **JSX**, the code source of the bottom three components is shown
 </section>
 ```
 
-
 **JSX**
 ```jsx
 ReactDOM.render(
@@ -313,6 +315,7 @@ ReactDOM.render(app, rootNode);
 
 The [above code snippet](https://codepen.io/techstack/pen/wvzyYWb) shows we can render components once in an application.
 
+---
 ### Terminology
 #### JSX
 > JSX stands for JavaScript XML. **JSX** allows us to write HTML-like in Babel (JavaScript)
@@ -351,7 +354,6 @@ After the installation of React, via any package manager like **Node Package Man
 [![Buy me a Coffee](https://res.cloudinary.com/bizstak/image/upload/v1610317510/ko-fi-trans_fr3su4.png)](https://www.buymeacoffee.com/bellotech)
 
 ---
-
 #### Techstack | Flutterwave 
 Techstack article, sponsored by Flutterwave. Flutterwave is the easiest way to make and accept payments both online and offline from customers anywhere in the world. It is absolutely free!  Also, you get a Flutterwave dollar barter card when you [signup](https://dashboard.flutterwave.com/signup?referrals=RV686851). Open an online store and take your business anywhere in the world.
 
